@@ -507,7 +507,7 @@ namespace AutoSharp.Auto.HowlingAbyss.ARAMShopAI
         public static string[] Quinn =
         {
             "Blade of the Ruined King", "The Bloodthirster",
-            "Berserker's Greaves", "Infinity Edge", "Statikk Shiv", "Runaan's Hurricane"
+            "Berserker's Greaves", "Infinity Edge", "Statikk Shiv", "Runaan's Hurricane (Ranged Only)"
         };
 
         public static string[] Rammus =

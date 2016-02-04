@@ -356,8 +356,8 @@ namespace AutoSharp.Auto.HowlingAbyss.ARAMShopAI
 
         public static string[] KogMaw =
         {
-            "Runaan's Hurricane", "Guinsoo's Rageblade",
-            "Blade of the Ruined King", "The Bloodthirster", "Berserker's Greaves", "Hextech Gunblade",
+            "Infinity Edge", "Statikk Shiv", "The Bloodthirster",
+            "Berserker's Greaves", "Statikk Shiv", "Blade of the Ruined King"
         };
 
         public static string[] Leblanc =

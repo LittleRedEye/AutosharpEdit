@@ -356,8 +356,8 @@ namespace AutoSharp.Auto.HowlingAbyss.ARAMShopAI
 
         public static string[] KogMaw =
         {
-            "Athene's Unholy Grail", "Rabadon's Deathcap",
-            "Sorcerer's Shoes", "Rod of Ages", "Nashor's Tooth", "Lich Bane",
+            "Runaan's Hurricane", "Guinsoo's Rageblade",
+            "Blade of the Ruined King", "The Bloodthirster", "Berserker's Greaves", "Hextech Gunblade",
         };
 
         public static string[] Leblanc =
@@ -507,7 +507,7 @@ namespace AutoSharp.Auto.HowlingAbyss.ARAMShopAI
         public static string[] Quinn =
         {
             "Blade of the Ruined King", "The Bloodthirster",
-            "Berserker's Greaves", "Infinity Edge", "Statikk Shiv", "Runaan's Hurricane (Ranged Only)"
+            "Berserker's Greaves", "Infinity Edge", "Statikk Shiv", "Runaan's Hurricane"
         };
 
         public static string[] Rammus =

@@ -338,7 +338,7 @@ namespace AutoSharp.Auto.HowlingAbyss.ARAMShopAI
 
         public static string[] Kayle =
         {
-            "Nashor's Tooth", "Runaan's Hurricane (Ranged Only)",
+            "Nashor's Tooth", "Runaan's Hurricane",
             "Sorcerer's Shoes", "Rabadon's Deathcap", "Liandry's Torment", "Void Staff"
         };
 
@@ -357,7 +357,7 @@ namespace AutoSharp.Auto.HowlingAbyss.ARAMShopAI
         public static string[] KogMaw =
         {
             "Infinity Edge", "Statikk Shiv", "The Bloodthirster",
-            "Berserker's Greaves", "Statikk Shiv", "Blade of the Ruined King"
+            "Berserker's Greaves", "Blade of the Ruined King"
         };
 
         public static string[] Leblanc =

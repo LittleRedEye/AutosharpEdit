@@ -770,8 +770,8 @@ namespace AutoSharp.Auto.HowlingAbyss.ARAMShopAI
 
         public static string[] Yasuo =
         {
-            "Statikk Shiv", "The Bloodthirster",
-            "Berserker's Greaves", "Infinity Edge", "Statikk Shiv", "Blade of the Ruined King"
+            "Statikk Shiv", "Infinity Edge", 
+            "Berserker's Greaves", "The Bloodthirster", "Statikk Shiv", "Blade of the Ruined King"
         };
 
         public static string[] Yorick =
